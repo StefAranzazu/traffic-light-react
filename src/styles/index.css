@@ -1,0 +1,45 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+.bar{
+    background-color:black ;
+    width: 20px;
+    height: 150px;
+    display: flex;
+    margin: auto;
+}
+.box{
+    background-color: black;
+    width: 200px;
+    height: 520px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.red{
+    background-color: red;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.yellow{
+    background-color: yellow;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: auto; 
+    margin-bottom: 15px;
+}
+.green{
+    background-color: green;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: auto
+    ;
+}
+.light{
+    box-shadow: 0 0 50px #FFFFFF;
+}
